@@ -19,10 +19,10 @@ body .markdown-section {
 
 :root {
 
-    --theme-color: #CC0633!important;
-    --link-color: #CC0633!important;
+    --theme-color: #EA7688!important;
+    --link-color: #EA7688!important;
     --link-color-hover: var(--link-color);
-    --link-underline-color: #CC0633!important;
+    --link-underline-color: #EA7688!important;
     --link-underline-thickness: 1px;
     --link-underline-thickness-hover: var(--link-underline-thickness);
 
