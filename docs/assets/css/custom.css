@@ -16,7 +16,7 @@ body .markdown-section {
 */
 
 /* Link colors to match SFU branding visual styling (uncomment to use) */
-
+/*
 :root {
     --theme-color: #CC0633;
     --link-color: #CC0633;
@@ -26,11 +26,11 @@ body .markdown-section {
     --link-underline-thickness-hover: var(--link-underline-thickness);
     --blockquote-border-color: #757B7F;
 }
-
+*/
 
 /* Dark mode colours to match SFU branding visual styling for use with light + dark theme (uncomment to use) */
 
-@media (prefers-color-scheme: dark) {
+
 :root {
     --theme-color: #EA7688;
     --link-color: #EA7688;
@@ -40,7 +40,7 @@ body .markdown-section {
     --link-underline-thickness-hover: var(--link-underline-thickness);
     --blockquote-border-color: #757B7F;
     }
-}
+
 
 
 /* CSS to better visually match Docsify pages within Moodle LMS (uncomment to use) */
